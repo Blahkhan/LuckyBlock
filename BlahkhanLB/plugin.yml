@@ -1,0 +1,10 @@
+name: BlahkhanLuckyBlocks
+version: 1.0
+main: io.github.sharkstudios.blahkhanlb.Main
+author: Blahkhan
+commands:
+   givelb:
+      description: Daje LB
+      usage: /<command> [player] [string]
+      permission: blahkhanlb.cmd.give
+      permission-message: You don't have permission

@@ -1,0 +1,13 @@
+def:
+   - ' weedle ; lvl:34 ;26;100;!s '
+   - ' ledyba ; lvl:46 ;0;25;s '
+
+boss:
+   - ' absol ; lvl:34 ;26;100;!s b:2 '
+   - ' gengar ; lvl:46 ;0;25;s b:2 '
+
+ghost:
+   - ' hunter ; lvl:34 ;26;100;!s '
+   - ' gengar ; lvl:46 ;0;25;s '
+   
+   
